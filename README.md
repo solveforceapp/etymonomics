@@ -1,2 +1,0 @@
-# etymonomics
-Etymonomics
